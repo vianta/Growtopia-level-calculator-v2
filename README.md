@@ -7,6 +7,7 @@ Discord: .wendos / .wwendos
 Server:  https://discord.gg/mb5Hh4jjs8
 
 <img  src="https://cdn.discordapp.com/attachments/1470403647081943105/1481771493867130931/image.png?ex=69b486be&is=69b3353e&hm=3b5c09f30be739fb32bed10ed614fa7631ee629680815a4a091a1fef29cb460e&">
+<img  src="https://cdn.discordapp.com/attachments/1470403647081943105/1481772634558566410/image.png?ex=69b487ce&is=69b3364e&hm=1bb8a2aa9903746cfb76b34c606074b585957e8fd52763026c82fc546e40ce26&">
 <img  src="https://cdn.discordapp.com/attachments/1470403647081943105/1481771554344800399/image.png?ex=69b486cc&is=69b3354c&hm=853192648bd75302de054dd7eee106dc4ab38927b0c01bdab4c140e028dd737b&">
 <img  src="https://cdn.discordapp.com/attachments/1470403647081943105/1481771620304421025/image.png?ex=69b486dc&is=69b3355c&hm=c77805f23e6cf466a900d0078612e8eab755dd43e71f6af81d25a43727b600b7&">
 <img  src="https://cdn.discordapp.com/attachments/1470403647081943105/1481771659764433029/image.png?ex=69b486e5&is=69b33565&hm=04726e1e6c48b2a6b3784632ca7a8dabdce13741cb0ab5eb90546cc5dd8be649&">
@@ -20,4 +21,3 @@ Server:  https://discord.gg/mb5Hh4jjs8
 
  # Coming soon
 
-<img  src="">
