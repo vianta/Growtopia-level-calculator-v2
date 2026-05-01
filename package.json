@@ -1,0 +1,27 @@
+{
+  "name": "calculator-bot",
+  "version": "1.0.0",
+  "description": "Discord Level Calculator Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "calculator",
+    "level",
+    "xp"
+  ],
+  "author": "wendos",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "discord.js": "^14.14.1",
+    "quick.db": "^9.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
