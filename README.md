@@ -262,8 +262,8 @@ Eğer sunucunuzda yemek sistemi varsa:
 
 ```javascript
 "FOOD_PRICES": {
-    "GINGERBREAD_COOKIE": 100,  // Zencefilli kurabiye = 100 jar
-    "COCONUT_TART": 100          // Hindistan cevizli tart = 100 jar
+    "GINGERBREAD_COOKIE": 100,  // "GINGERBREAD_COOKIE = 100 jar
+    "COCONUT_TART": 100          // "COCONUT_TART tart = 100 jar
 }
 ```
 
